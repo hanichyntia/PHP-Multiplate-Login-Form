@@ -1,6 +1,6 @@
 # PHP-Multiplate-Login-Form
 
-A simple, secure, and easy-to-use multi-user login form built with PHP and MySQL. This project allows multiple types of users (e.g., admins, users, and guests) to log in and access different sections of a web application.
+A simple, secure, and easy-to-use multi-user login form built with PHP and MySQL. This project allows multiple types of users (e.g., siswa, and guru) to log in and access different sections of a web application.
 
 ## Features
 
